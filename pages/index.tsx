@@ -19,13 +19,13 @@ export default function Home() {
         <Stack spacing={2} direction="column">
           <Button variant="text">Text</Button>
           <Button variant="contained">Contained</Button>
-          <Button variant="contained">Outlined</Button>
+          <Button variant="outlined">Outlined</Button>
           <Button variant="text">Text</Button>
           <Button variant="contained">Contained</Button>
-          <Button variant="contained">Outlined</Button>
+          <Button variant="outlined">Outlined</Button>
           <Button variant="text">Text</Button>
           <Button variant="contained">Contained</Button>
-          <Button variant="contained">Outlined</Button>
+          <Button variant="outlined">Outlined</Button>
         </Stack>
       </main>
 
