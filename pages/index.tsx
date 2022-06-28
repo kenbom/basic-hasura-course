@@ -22,10 +22,10 @@ export default function Home() {
           <Button variant="contained">Outlined</Button>
           <Button variant="text">Text</Button>
           <Button variant="contained">Contained</Button>
-          <Button variant="outlined">Outlined</Button>
+          <Button variant="contained">Outlined</Button>
           <Button variant="text">Text</Button>
           <Button variant="contained">Contained</Button>
-          <Button variant="outlined">Outlined</Button>
+          <Button variant="contained">Outlined</Button>
         </Stack>
       </main>
 
